@@ -1,0 +1,15 @@
+C:\Users\arapt\source\repos\MusicArray\MusicArray\bin\Debug\net6.0\MusicArray.exe
+C:\Users\arapt\source\repos\MusicArray\MusicArray\bin\Debug\net6.0\MusicArray.deps.json
+C:\Users\arapt\source\repos\MusicArray\MusicArray\bin\Debug\net6.0\MusicArray.runtimeconfig.json
+C:\Users\arapt\source\repos\MusicArray\MusicArray\bin\Debug\net6.0\MusicArray.dll
+C:\Users\arapt\source\repos\MusicArray\MusicArray\bin\Debug\net6.0\MusicArray.pdb
+C:\Users\arapt\source\repos\MusicArray\MusicArray\obj\Debug\net6.0\MusicArray.csproj.AssemblyReference.cache
+C:\Users\arapt\source\repos\MusicArray\MusicArray\obj\Debug\net6.0\MusicArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arapt\source\repos\MusicArray\MusicArray\obj\Debug\net6.0\MusicArray.AssemblyInfoInputs.cache
+C:\Users\arapt\source\repos\MusicArray\MusicArray\obj\Debug\net6.0\MusicArray.AssemblyInfo.cs
+C:\Users\arapt\source\repos\MusicArray\MusicArray\obj\Debug\net6.0\MusicArray.csproj.CoreCompileInputs.cache
+C:\Users\arapt\source\repos\MusicArray\MusicArray\obj\Debug\net6.0\MusicArray.dll
+C:\Users\arapt\source\repos\MusicArray\MusicArray\obj\Debug\net6.0\refint\MusicArray.dll
+C:\Users\arapt\source\repos\MusicArray\MusicArray\obj\Debug\net6.0\MusicArray.pdb
+C:\Users\arapt\source\repos\MusicArray\MusicArray\obj\Debug\net6.0\MusicArray.genruntimeconfig.cache
+C:\Users\arapt\source\repos\MusicArray\MusicArray\obj\Debug\net6.0\ref\MusicArray.dll
